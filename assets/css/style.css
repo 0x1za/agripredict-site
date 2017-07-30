@@ -269,9 +269,11 @@ input {
     -o-background-size: cover;
     background-size: cover;
 }
-
+.light{
+	background-color: rgba(0, 0, 0, 0.25);
+}
 #sepi {
-	background: url(../img/seedlings.jpg) no-repeat center top;
+	background: url(../img/farmer.jpg) no-repeat center top;
 	padding-top: 90px;
 	text-align:center;
 	background-attachment: relative;
